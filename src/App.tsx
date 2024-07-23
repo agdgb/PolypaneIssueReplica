@@ -6,7 +6,7 @@ function App() {
       <div className="background">
         <video autoPlay muted playsInline loop>
           <source
-            src="../I-Surrender-Hillsong-Worship-00.06.57.428-00.07.43.628.mp4"
+           src="./assets/I-Surrender-Hillsong-Worship-00.06.57.428-00.07.43.628.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
